@@ -15,7 +15,7 @@ body {
 }
 .cabecalho{
     grid-area: cabecalho;
-    background-color:#4cbbb9 ;
+    background-color:#ff7979 ;
     color: white;
     /*------*/
     /*z-index: 1;

@@ -15,7 +15,7 @@ body {
 }
 .cabecalho{
     grid-area: cabecalho;
-    background-color:#4cbbb9 ;
+    background-color:#FB5252 ;
     color: white;
     /*------*/
     /*z-index: 1;
@@ -23,7 +23,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     padding: 10px;
 }
 .cabecalho  h1{
@@ -40,7 +40,7 @@ body {
 .principal{
     grid-area: principal;
     height: calc(100vh - 180px);
-    background-color: #d1ccc0;
+    background-color: #E3E9ED;
     padding: 20px;
       /*------*/
       

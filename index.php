@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="sty.css">
+    <link rel="stylesheet" href="style.css">
 
     <title></title>
 </head>
@@ -13,14 +13,13 @@
 
     <header class="cabecalho">
         <div class="job">
-            <img src="img\Logo-JobHome-br-1.png" alt="">
+            <img src="img\tccLogoTransparente150x150.png" alt="">
         </div>
        
     </header>
     <main class="principal">
-    
-        
-
+        <div class="conteudo">
+        </div>
     </main>
     <footer class="rodape">
         Debs! ® Pixie  <?= date('Y') ?>
